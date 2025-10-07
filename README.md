@@ -10,7 +10,7 @@ It provides the code and data used throughout the course.
 | Path | Description |
 |------|--------------|
 | `Survey Data/` | CSV data files (2017–2021) |
-| `unsupervised_learning.ipynb` | Colab notebook |
+| `unsupervised_learning_project.ipynb` | Colab notebook |
 | `README.md` | Project information |
 
 ---
