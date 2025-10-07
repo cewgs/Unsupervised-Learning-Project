@@ -1,7 +1,7 @@
 ## Unsupervised Learning Project
 
 This repository contains the Colab notebook and supporting data used for the course on unsupervised learning (**DLBDSMLUSL01**).  
-It provides the code and data used throughout the course.
+It provides the code and data used throughout the project. 
 
 ---
 
