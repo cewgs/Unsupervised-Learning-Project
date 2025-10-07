@@ -15,7 +15,7 @@ It provides the code and data used throughout the course.
 
 ---
 
-### 🚀 Running the Notebook in Google Colab
+### Running the Notebook in Google Colab
 
 You can open the notebook directly in Google Colab using the link below:
 
