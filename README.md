@@ -19,7 +19,7 @@ It provides the code and data used throughout the project.
 
 You can open the notebook directly in Google Colab using the link below:
 
-🔗 [Open in Colab](https://colab.research.google.com/github/cewgs/Unsupervised-Learning-Project/blob/main/unsupervised_learning_project.ipynb)
+ [Open in Colab](https://colab.research.google.com/github/cewgs/Unsupervised-Learning-Project/blob/main/unsupervised_learning_project.ipynb)
 
 Once opened, run the setup cell at the top of the notebook to clone the repository and install the required packages.
 
